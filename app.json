@@ -7,7 +7,23 @@
     "plugins": [
       "expo-router"
     ],
-    "name": "job-search",
-    "slug": "job-search"
+    "name": "job-quest",
+    "slug": "job-quest",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "7f778641-230d-4625-ac27-7d4561fa3f1a"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/7f778641-230d-4625-ac27-7d4561fa3f1a"
+    },
+    "android": {},
+    "ios": {}
   }
 }
